@@ -1,2 +1,2 @@
 # roteiro1-leda
-Roteiro de rwevisão sobre herança, interfaces e arrays.
+Roteiro de ordenação por comparação (bubble, selection e insertion).
