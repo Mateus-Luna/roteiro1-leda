@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-13T17:07:29.239-0300</date>
+  <logger>MATEUS MEDEIROS DE ARAUJO ALMEIDA</logger>
+  <level>FINE</level>
+  <message>File 119210458-MATEUS MEDEIROS DE ARAUJO ALMEIDA.zip was received. It was sent by MATEUS MEDEIROS DE ARAUJO ALMEIDA from IP 192.168.56.1 at 13-12-2021 17*07*29</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-16T13:36:55.883-0300</date>
+  <logger>MATEUS MEDEIROS DE ARAUJO ALMEIDA</logger>
+  <level>FINE</level>
+  <message>File 119210458-MATEUS MEDEIROS DE ARAUJO ALMEIDA.zip was received. It was sent by MATEUS MEDEIROS DE ARAUJO ALMEIDA from IP 192.168.56.1 at 16-12-2021 13*36*55</message>
+</record>
